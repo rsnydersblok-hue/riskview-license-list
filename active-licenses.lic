@@ -1,14 +1,14 @@
 <License>
-  <Id>a31c4f6b-594e-4723-979f-fb926eadd72b</Id>
+  <Id>b169c140-a1b3-418b-9396-1ac442379ffa</Id>
   <Type>Standard</Type>
-  <Expiration>Thu, 19 Nov 2076 19:39:23 GMT</Expiration>
+  <Expiration>Thu, 19 Nov 2076 19:40:06 GMT</Expiration>
   <Customer>
     <Name>RiskView active license list</Name>
     <Email>none</Email>
   </Customer>
   <LicenseAttributes>
     <Attribute name="document_kind">riskview-active-list</Attribute>
-    <Attribute name="active_list">{"publishedUtc":"2026-11-19T19:39:23.0736015Z","licenses":{"1ae7f0b5-5cea-4f92-ab92-8b6ae7158f36":{"status":"active"},"e095704e-46f7-4c06-806f-934beb117cba":{"status":"active"},"2644c280-82cc-45db-ab23-461ef883de38":{"status":"active"},"1b64c2ad-f465-4703-8bfe-5f1f33dd3c5a":{"status":"disabled","expiresUtc":"2027-05-19T00:00:00Z"},"d19cecca-db52-4b8d-90da-ae8e39353d6d":{"status":"disabled"},"f854ab7e-0853-40be-96a2-3c50132ec0d3":{"status":"active"},"a4ef1e4a-b586-4b54-8c5e-606166a0d879":{"status":"active"}}}</Attribute>
+    <Attribute name="active_list">{"publishedUtc":"2026-11-19T19:40:06.65215Z","licenses":{"1ae7f0b5-5cea-4f92-ab92-8b6ae7158f36":{"status":"active"},"e095704e-46f7-4c06-806f-934beb117cba":{"status":"active"},"2644c280-82cc-45db-ab23-461ef883de38":{"status":"active"},"1b64c2ad-f465-4703-8bfe-5f1f33dd3c5a":{"status":"active","expiresUtc":"2027-05-19T00:00:00Z"},"d19cecca-db52-4b8d-90da-ae8e39353d6d":{"status":"disabled"},"f854ab7e-0853-40be-96a2-3c50132ec0d3":{"status":"active"},"a4ef1e4a-b586-4b54-8c5e-606166a0d879":{"status":"active"}}}</Attribute>
   </LicenseAttributes>
-  <Signature>MEUCIGS65oxc9L5GdvUfY/Yr4wHnslrwgv4QkD03q5NI0ewyAiEArIdu10mqJXorOrosrdS7GaabksovQCMyROPcY3GuFJU=</Signature>
+  <Signature>MEUCIQDjT3ZLEGQkrYWpH4zEzKfiAi+1feFy4N2numIxZ2/mSwIgGW9rDVDjSvqY5zMOXtxlaZkHK1ewDMUpglwXVprHtMc=</Signature>
 </License>
